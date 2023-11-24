@@ -2,7 +2,7 @@
 
 > [Demo](https://wissemkarous.github.io/Portfolio/)
 
-<img src="particle_demo/particle_demo.png"/>
+![demo](https://github.com/wissemkarous/Portfolio/assets/115191512/7bc998f3-6a6b-4fc6-bd89-2adeea38deee)
 
 # Using the Template
 
